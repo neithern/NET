@@ -4,7 +4,7 @@ layout: page
 comments: no
 ---
 
-这里是 {{ site.name }} 的个人博客。
+{{ site.about }}
 
 ----
 
