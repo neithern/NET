@@ -19,3 +19,5 @@ Optimized for Anroid 3.0+:
 3.   Always hardware acceleration for 3.0+, remove the testing option
 
 Download：[QuickPic_2.9.9.b2](/assets/QuickPic_2.9.9.b2.apk)
+
+![](/assets/quickpic/large-preview.png)
