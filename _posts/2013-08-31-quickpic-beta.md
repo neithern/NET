@@ -1,0 +1,20 @@
+---
+author: nanling
+comments: true
+date: 2013-08-31 10:15:15+08:00
+layout: post
+slug: march-31-update-best-android-photo-browser-browse-quickpic-v2-9-9-beta2
+title: 最好的 Android 图片浏览器--快图浏览 QuickPic v2.9.4
+wordpress_id: 15
+categories:
+- 原创作品
+---
+
+　 QuickPic 2.9.9 Beta2
+
+Optimized for Anroid 3.0+:
+1. Support super large images, quicker and smoother
+2. Crop higher quality image
+3. Always hardware acceleration for 3.0+, remove the testing option
+
+Download：[QuickPic_2.9.9.b2](/assets/QuickPic_2.9.9.b2.apk)
