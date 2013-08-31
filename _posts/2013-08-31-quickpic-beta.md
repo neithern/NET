@@ -13,10 +13,9 @@ categories:
 　 QuickPic 2.9.9 Beta2
 
 Optimized for Android 3.0+:
-
 1. Support super large images, quicker and smoother
-2.  Crop higher quality image
-3.   Always hardware acceleration for 3.0+, remove the testing option
+2. Crop higher quality image
+3. Always hardware acceleration for 3.0+, remove the testing option
 
 Download：[QuickPic_2.9.9.b2](/assets/QuickPic_2.9.9.b2.apk)
 
