@@ -12,7 +12,7 @@ categories:
 
 　 QuickPic 2.9.9 Beta2
 
-Optimized for Anroid 3.0+:
+Optimized for Android 3.0+:
 
 1. Support super large images, quicker and smoother
 2.  Crop higher quality image
