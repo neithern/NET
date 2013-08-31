@@ -4,7 +4,7 @@ comments: true
 date: 2013-08-31 10:15:15+08:00
 layout: post
 slug: march-31-update-best-android-photo-browser-browse-quickpic-v2-9-9-beta2
-title: 最好的 Android 图片浏览器--快图浏览 QuickPic v2.9.4
+title: QuikPic 2.9.9 Beta2ic v2.9.4
 wordpress_id: 15
 categories:
 - 原创作品
