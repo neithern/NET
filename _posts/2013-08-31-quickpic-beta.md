@@ -3,8 +3,8 @@ author: nanling
 comments: true
 date: 2013-08-31 10:15:15+08:00
 layout: post
-slug: march-31-update-best-android-photo-browser-browse-quickpic-v3-0-rc
-title: QuikPic 3.0 RC
+slug: march-31-update-best-android-photo-browser-browse-quickpic-v2-9-9-beta2
+title: QuickPic 2.9.9 Beta2
 wordpress_id: 15
 categories:
 - 原创作品
@@ -44,3 +44,5 @@ Download：[QuickPic_3.0.RC](/assets/QuickPic_3.0.rc.apk)
 8. 修正：调用地图app显示地理位置的问题
 
 Download：[QuickPic_3.0.RC](/assets/QuickPic_3.0.rc.apk)
+
+![](/assets/quickpic/large-preview.png)
