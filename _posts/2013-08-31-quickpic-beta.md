@@ -3,8 +3,8 @@ author: nanling
 comments: true
 date: 2013-08-31 10:15:15+08:00
 layout: post
-slug: march-31-update-best-android-photo-browser-browse-quickpic-v2-9-9-beta2
-title: QuickPic 2.9.9 Beta2
+slug: march-31-update-best-android-photo-browser-browse-quickpic-v3-0-rc
+title: QuickPic 3.0 RC
 wordpress_id: 15
 categories:
 - 原创作品
