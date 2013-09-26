@@ -26,9 +26,6 @@ for all devices:
 7. Fix: hide failed in 4.3
 8. Fix: issues of opening maps app
 
-Download：[QuickPic_3.0.RC](/assets/QuickPic_3.0.rc.apk)
-
-
 只针对 Android 3.0+:
 1. 支持超大图片100%解码，更快画质更佳
 2. 裁剪输出更大图片，设壁纸更加清晰
