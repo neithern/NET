@@ -12,11 +12,11 @@ categories:
 
 　 QuickPic 3.0 RC
 
-for Android 3.0+:
+for Android 3.0 and higher:
 
 1.  100% decode super large images, best quality and quicker
 2.  Crop better quality image, also does wallpaper
-3.  Always hardware acceleration for 3.0+, more smooth
+3.  Always hardware acceleration, more smooth
 for all devices:
 1.  Multi-core optimization, faster loading
 2.  Better quality preview caches (need rebuild)
@@ -27,11 +27,11 @@ for all devices:
 7.  Fix: hide failed in 4.3
 8.  Fix: issues of opening maps app
 
-只针对 Android 3.0+:
+针对 Android 3.0及以上版本:
 
 1. 支持超大图片100%解码，更快画质更佳
 2. 裁剪输出更大图片，设壁纸更加清晰
-3. 对3.0+系统强制启用硬件加速，更加流畅
+3. 强制启用硬件加速，更加流畅
 
 所有平台:
 
