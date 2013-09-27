@@ -17,7 +17,9 @@ for Android 3.0 and higher:
 1.  100% decode super large images, best quality and quicker
 2.  Crop better quality image, also does wallpaper
 3.  Always hardware acceleration, more smooth
+
 for all devices:
+
 1.  Multi-core optimization, faster loading
 2.  Better quality preview caches (need rebuild)
 3.  Auto scale thumbnails to fit screen
