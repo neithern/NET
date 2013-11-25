@@ -4,7 +4,7 @@ comments: true
 date: 2013-11-25 9:52:00+00:00
 layout: post
 slug: july-28-update-the-fastest-newest-most-provincial-resources-android-version-of-qc-belonging-to-v0-9-0
-title: 7月28日更新：最快、最新、最省资源的 Android 版 QC 归属地 v0.10
+title: 11月25日更新：最快、最新、最省资源的 Android 版 QC 归属地 v0.10
 wordpress_id: 10
 categories:
 - 原创作品
@@ -44,7 +44,7 @@ v0.10
 3. 更换图标，支持高分屏
 
 
-本地下载 (Download)：[PhoneArea_0.10.apk](/assets/PhoneArea_0.10.apk)
+[本地下载](/assets/PhoneArea_0.10.apk)
 
 [Google Play](https://play.google.com/store/apps/details?id=com.alensw.PhoneArea)
 
