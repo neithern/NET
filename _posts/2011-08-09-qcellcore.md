@@ -1,27 +1,18 @@
 ---
 author: nanling
 comments: true
-date: 2013-11-25 9:52:00+00:00
+date: 2014-1-7 20:30:00+08:00
 layout: post
 slug: july-28-update-the-fastest-newest-most-provincial-resources-android-version-of-qc-belonging-to-v0-9-0
-title: 11月25日更新：最快、最新、最省资源的 Android 版 QC 归属地 v0.10
+title: 1月7日更新：最快、最新、最省资源的 Android 版 QC 归属地 v0.11
 wordpress_id: 10
 categories:
 - 原创作品
 ---
 
-
-
-
 最快、最新、最省资源的 Android 版 QC 归属地程序！
 
-
-
-
 采用和 WM 版QCellCore相同的 areacode.bin 数据库文件，有以下特点：
-
-
-
 
 1. 采用 JNI 技术，直接读取APK里的数据，不但速度快，还节省内存开销
 2. 支持来电和去电时显示号码的归属地，接通或挂断电话时立即隐藏，不影响电话操作
@@ -37,14 +28,18 @@ categories:
 1. 不再支持从网站更新数据(不再需要网络访问权限)，数据将随程序升级而更新。
 2. 如果你有最新的数据，请发邮件给我，以方便分享给所有QC爱好者，谢谢！
 
+v0.11
+
+1. 修正: 4.1+系统无法更新通话记录 (需要新增两个读写通话记录的新权限)
+2. 更新数据库
+
 v0.10
 
 1. 修正：4.4系统无法导入数据库
 2. 更新数据库
 3. 更换图标，支持高分屏
 
-
-[本地下载](/assets/PhoneArea_0.10.apk)
+[本地下载](/assets/PhoneArea_0.11.apk)
 
 [Google Play](https://play.google.com/store/apps/details?id=com.alensw.PhoneArea)
 
@@ -54,7 +49,6 @@ v0.10
 ![](/assets/qcarea/setting_show_calling.png)
 ![](/assets/qcarea/incoming_call.png)
 
-
 更新记录：
 
 v0.9
@@ -63,7 +57,6 @@ v0.9
 2. 导入的数据库不再以缓存方式保存，以免被第三方程序清理掉
 3. 点击搜索结果项时复制结果到剪贴板
 4. 更新数据库
-
 
 v0.8
 
@@ -76,7 +69,6 @@ v0.7.0
 2. 不再支持从网站更新数据(不再需要网络访问权限)，数据将随程序升级而更新
 3. 修正几处可能导致程序崩溃的错误
 4. 更新数据库
-
 
 v0.6.8
 
