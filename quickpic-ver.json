@@ -1,6 +1,6 @@
 {
-  "versionCode": 144,
-  "versionName": "3.7.1",
+  "versionCode": 146,
+  "versionName": “3.8”,
   "downloadUrl": "http://coolapk.com/apk/com.alensw.PicFolder",
-  "changeLog": "更新记录：\nv3.7.1:\n支持高清GIF动画，大幅提升流畅度\n加载超大图更快更流畅\n“逐渐放大效果”作为幼灯片选项\n修正错误及性能优化\nv3.7：\n双指旋转，玩“转”照片（编辑器内也可使用）\n浏览大图更流畅"
+  "changeLog": "更新记录：\nv3.8:\n通过WiFi在多个设备间“快传”文件（需要2个WiFi相关的权限）\nUI流畅度优化\n错误修正"
 }
