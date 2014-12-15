@@ -193,6 +193,16 @@ header .description-text .skills {
     }
 }
 
+.empty-margin {
+    margin: 20px;
+}
+
+@media(min-width:768px) {
+    .empty-margin {
+    margin: 40px;
+    }
+}
+
 @media(min-width:768px) {
     .navbar-fixed-top {
 
