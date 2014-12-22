@@ -274,6 +274,24 @@ section.success {
     }
 }
 
+.buttons-getapk {
+    display: inline-block;
+    width: 134px;
+    height: 40px;
+    background: url("http://www.alensw.com/en/img/download_apk.png") no-repeat 50% 50%;
+    background-size: 134px 40px;
+    margin: 10px;
+}
+
+.buttons-google-play {
+    display: inline-block;
+    width: 134px;
+    height: 40px;
+    background: url("http://www.alensw.com/en/img/download_google-play.png") no-repeat 50% 50%;
+    background-size: 134px 40px;
+    margin: 10px;
+}
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
