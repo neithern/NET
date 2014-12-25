@@ -62,10 +62,10 @@
                         <a href="#download">下载</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#footer">关于</a>
+                        <a href="http://www.alensw.com/tips">常见问题</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="http://www.alensw.com/tips">常见问题</a>
+                        <a href="#footer">关于</a>
                     </li>
                 </ul>
             </div>
@@ -229,7 +229,7 @@ layout: page
 <li><p><strong>如何快速分享图片给别人？</strong></p>
 
 <blockquote><ul>
-<li>方法一: 可以通过<a href="#df_wifi_trans">WiFi快传</a>。比蓝牙快多了。</li>
+<li>方法一: 可以通过WiFi快传。比蓝牙快多了。</li>
 <li>方法二: 可以在查看这张图片的时候，点击控制栏中的分享图标，选择你喜欢的分享方式来传。</li>
 <li>方法三: 如果你的手机带有NFC功能的话，可以在查看图片的时候，把手机贴在别人的手机背部即可实现NFC发送文件了。</li>
 </ul>
@@ -249,14 +249,10 @@ layout: page
 <li><p><strong>如何增加快图的速度？</strong></p>
 
 <blockquote><ul>
-<li>排除第三方app的缓存目录，这些目录会缓存使用APP时使用时的所有图片，而这些图片对于你自己来说是无关紧要的，甚至是尴尬的。那么要如何操作呢。下面以微信为例:
-
-<blockquote><ul>
+<li>排除第三方app的缓存目录，这些目录会缓存使用APP时使用时的所有图片，而这些图片对于你自己来说是无关紧要的，甚至是尴尬的。那么要如何操作呢。下面以微信为例:</li>
 <li>进入到<code>排除文件夹</code>界面(<code>设置</code>-><code>浏览</code>中)。点击添加按钮，会进入到sdcard的根目录。</li>
 <li>找到<code>tencent</code>目录，进入<code>MicroMsg</code>，你会看到很多的目录。其中有一些奇怪的文件夹，譬如“<code>1f63fe9ef04a5ec7df3fca9a060d0f74</code>”这种一串乱码而且很长的文件夹。然后把这些文件夹全部都排除掉即可。</li>
 <li>相同的，也可以把其他APP里面中的这种类似的文件夹给排除掉。</li>
-</ul>
-</blockquote></li>
 </ul>
 </blockquote></li>
 </ul>
@@ -454,13 +450,9 @@ layout: page
 
 <blockquote><ul>
 <li>如果是相同的文件夹，则只处理最新的设置，譬如先包含后排除，那么就是排除这个文件夹，包含文件夹里面会被移除掉。</li>
-<li>如果目录存在包含关系，则优先处理子目录。譬如:
-
-<blockquote><ul>
+<li>如果目录存在包含关系，则优先处理子目录。譬如:</li>
 <li><strong>1)</strong>.排除文件夹是<code>/sdcard/DCIM</code>，包含文件夹是<code>/sdcard/DCIM/Camera</code>则Camera的图片/视频会被显示出来，DCIM的其他图片/视频不会被显示出来。</li>
 <li><strong>2)</strong>.排除文件夹是<code>/sdcard/DCIM/Camera</code>，包含文件夹是<code>/sdcard/DCIM</code>则Camera的图片/视频不会被显示出来，DCIM里面的其他图片/视频会被显示出来。</li>
-</ul>
-</blockquote></li>
 </ul>
 </blockquote></li>
 <li><p><strong>只显示部分图片，或者丢失图片怎么办？</strong></p>
@@ -564,54 +556,6 @@ layout: page
 
 <blockquote><ul>
 <li>目前没有其他找回密码的方式了。你可以通过<code>重新安装</code>应用，或者在<code>手机设置</code> -> <code>应用</code> -> <code>已下载</code>或<code>全部</code>中找到<code>快图浏览</code> -> 点击<code>清除数据</code>。</li>
-</ul>
-</blockquote></li>
-</ul>
-
-
-<h2>快传</h2>
-
-<hr />
-
-<ul>
-<li><p><strong>快传是什么？</strong></p>
-
-<blockquote><ul>
-<li>快传利用WiFi在多个设备之间互传文件，无需移动网络。相比较于蓝牙而言速度有指数级的加快。需要注意的是，请确保需要传文件的设备在同一个WiFi网络内。</li>
-</ul>
-</blockquote></li>
-<li><p><span id="df_wifi_trans"><strong>如何使用快传？</strong></span></p>
-
-<blockquote><ul>
-<li><p>请确保<code>接收方</code>进入了<code>WiFi快传</code>页面：在首页点击左上角<code>“三”</code>形状的图片按钮或者从屏幕<code>左边缘向右滑动</code>呼出左边操作栏，也可以在手机点击<code>菜单键</code>之后选择<code>WiFi快传</code>即可进入到快传页面。</p></li>
-<li><p><code>发送方</code>这边可以通过上面的方式先进入快传界面，然后点击屏幕中间右边的<strong> + </strong> 选择需要传输的图片(视频)。最简单的方式是：长按图片进入多选模式选中想要传输的图片，然后呼出左边操作栏选中快传即可。</p></li>
-<li>然后，点击设备列表中接收方的设备，即可实现传输。</li>
-</ul>
-</blockquote></li>
-<li><p><strong>如何利用快传发送任意文件或者如何在其他APP里面使用快传分享？</strong></p>
-
-<blockquote><ul>
-<li>在其他的文件管理器里面选中你要的文件(不局限文件的类型)，然后在这个APP里面找到<code>发送</code>或者<code>分享</code>等选项，在弹出来的操作方式里面找到<code>WiFi快传</code>，即可使用快传了。</li>
-</ul>
-</blockquote></li>
-<li><p><strong>如何更改自己的快传设备名？</strong></p>
-
-<blockquote><ul>
-<li>进入快传界面后，点击<code>菜单按钮</code>，选中<code>重命名</code>即可更改设备名字了。下次使用的时候无需再次更改。</li>
-</ul>
-</blockquote></li>
-<li><p><strong>如何在没有WiFi时使用快传？</strong></p>
-
-<blockquote><ul>
-<li>没有WiFi的情况下，可以通过开启无线热点，让对方连接你的手机开启无线热点就可以了。</li>
-<li>具体方式是在<code>WiFi快传</code>界面，点击绿色的<code>详情</code>在弹出来的页面中点击<code>开启热点</code>进入到系统的<code>网络共享和便携式热点</code>页面(也可以通过系统设置的<code>无线和网络</code>下的<code>更多</code>里找到<code>网络共享和便携式热点</code>进入此页面，<em>不同系统可能有差别</em>)。</li>
-<li>勾选<code>便携式WLAN热点</code>，点击<code>设置WLAN热点</code>即可以设置WiFi热点的名称以及密码。让对方连接上即可正常的使用WiFi快传了。</li>
-</ul>
-</blockquote></li>
-<li><p><strong>如何从桌面直接打开WiFi快传？</strong></p>
-
-<blockquote><ul>
-<li>进入快传页面之后，点击<code>菜单按钮</code>，选中<code>添加到桌面</code>即可在桌面看到<code>WiFi快传</code>，点击就可以直接进入了。</li>
 </ul>
 </blockquote></li>
 </ul>
