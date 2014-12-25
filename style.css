@@ -299,6 +299,20 @@ section.success {
     margin: 10px;
 }
 
+
+
+.container ul {
+    padding-left: 10px;
+    padding-right: 4px;
+}
+
+.container li blockquote {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
