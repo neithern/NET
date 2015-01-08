@@ -261,6 +261,16 @@ layout: page
 </blockquote></li>
 </ul>
 </blockquote></li>
+<li><p><strong>快图浏览用了哪些权限，为什么使用这些权限</strong></p>
+
+<blockquote><ul>
+<li><strong>ACCESS_NETWORK_STATE(即查看网络连接)</strong>: 用来辨别当前的网络状态是移动网络还是WiFi网络</li>
+<li><strong>ACCESS_WIFI_STATE、CHANGE_WIFI_MULTICAST_STATE(即查看WLAN连接、允许接收WLAN多播)</strong>: 使用快传时查看WIFI状态以及数据传输</li>
+<li><strong>NFC(即控制近距离通信)</strong>: 用来支持NFC传输图片(即两个手机背靠背传图，需手机有NFC芯片)</li>
+<li><strong>WAKE_LOCK(即防止手机休眠)</strong>: 幻灯片播放时不会因为手机休眠而中断浏览</li>
+<li><strong>WRITE_SYNC_SETTINGS和AUTHENTICATE_ACCOUNTS(即启用和停用同步、创建帐号并设置密码)</strong>: 自动云备份时候需要用到这两个权限</li>
+</ul>
+</blockquote></li>
 </ul>
 
 
@@ -605,7 +615,7 @@ layout: page
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; Q-Supreme team 2014
+                        Copyright &copy; Q-Supreme team 2015
                         
                         <a href="http://www.miibeian.gov.cn" target="_blank">沪ICP备07500366号</a>
                         

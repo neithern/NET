@@ -241,6 +241,16 @@ layout: page
 <li>This issues has been fixed.Please update to the latest version.</li>
 </ul>
 </blockquote></li>
+<li><p><strong>How many permissions does QuickPic required, and why?</strong></p>
+
+<blockquote><ul>
+<li><strong>ACCESS_NETWORK_STATE(view networkd connections)</strong>: check if current connection is mobile network or WiFi</li>
+<li><strong>ACCESS_WIFI_STATE/CHANGE_WIFI_MULTICAST_STATE(view Wi-Fi connections/allow Wi-Fi Multicast reception)</strong>: when using <code>WiFi Transfer</code>, wifi status need be known and tranfer data need Multicast</li>
+<li><strong>NFC(control Near Field Communication)</strong>: using NFC to transfer file(touch each other by back, NFC chip is needed)</li>
+<li><strong>WAKE_LOCK(prevent phone from sleeping)</strong>: prevent phone from sleeping when playing slideshow</li>
+<li><strong>WRITE_SYNC_SETTINGS/AUTHENTICATE_ACCOUNTS(toggle sync on and off/create accounts and set passwords)</strong>: needed for auto cloud backup</li>
+</ul>
+</blockquote></li>
 </ul>
 
 
@@ -551,7 +561,7 @@ layout: page
 <li><p><strong>How to use WiFi Transfer where there is no wifi</strong></p>
 
 <blockquote><ul>
-<li>When no wifi hotspot, you can build one in your own device.After other device connect your hotspot you can use WiFi Transfer. <code>TIPS</code>: WiFi Transfer will not use your mobile data stream.</li>
+<li>When no wifi hotspot, you can build one in your own device.After other device connect your hotspot you can use WiFi Transfer. <code>TIPS</code>: WiFi Transfer will not using cellular data.</li>
 <li>In <code>WiFi Transfer Page</code>，click <code>Details</code> (in green color), then click <code>Enable WiFi hotspot</code>.Your system hotspot settings will come out then you can build a hotspot.</li>
 </ul>
 </blockquote></li>
@@ -600,7 +610,7 @@ layout: page
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; Q-Supreme team 2014
+                        Copyright &copy; Q-Supreme team 2015
                         
                         <a href="http://www.miibeian.gov.cn" target="_blank">沪ICP备07500366号</a>
                         
