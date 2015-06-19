@@ -1,6 +1,6 @@
 {
-  "versionCode": 156,
-  "versionName": "4.3",
-  "downloadUrl": "http://alensw.com/assets/quickpic_4.3.apk",
-  "changeLog": "更新记录：\nv4.3:\n长按文件夹后可“置顶”\n新选项:默认文件夹排序\n可选择设为单屏壁纸\n更好的支持安卓5.0上的SD卡\n现在视频也可以“修复时间”\nv4.2:\n支持360云盘\n大幅提升访问共享目录的性能\n修正缩略图问题\n修正网盘Bug: Amazon, Flickr, OwnCloud\n修正自动云备份问题\n修正文件名带表情符号问题\nv4.1:\n深色背景的多彩主题\n支持Windows电脑和NAS的网络共享目录（同样可用于自动备份照片）\n支持云：Amazon, OwnCloud\n支持网盘内的批量删除、移动、下载图片\n自动云备份更多选项，优化上传性能\n"
+  "versionCode": 159,
+  "versionName": "4.5.2",
+  "downloadUrl": "http://alensw.com/assets/quickpic_4.5.2.apk",
+  "changeLog": "更新记录：\nv4.5.2:\n相册和活动视图中搜索功能\n长按后滑动可直接多选\n简化文件夹选取操作\nUI优化及错误修正\nv4.3:\n长按文件夹后可“置顶”\n新选项:默认文件夹排序\n可选择设为单屏壁纸\n更好的支持安卓5.0上的SD卡\n现在视频也可以“修复时间”\nv4.2:\n支持360云盘\n大幅提升访问共享目录的性能\n修正缩略图问题\n修正网盘Bug: Amazon, Flickr, OwnCloud\n修正自动云备份问题\n修正文件名带表情符号问题\n"
 }
